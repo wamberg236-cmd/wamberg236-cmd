@@ -4,6 +4,12 @@
 
 <p align="left">Meu nome é Wamberg e eu sou um Estudante de Engenharia de Software na UDF</p>
 
+<p align="left">
+  <a href="https://github.com/wamberg236-cmd">
+    <img src="https://komarev.com/ghpvc/?username=Wamberg&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="visualizações do perfil" />
+  </a>
+</p>
+
 ###
 
 <h2 align="left">Sobre mim</h2>
