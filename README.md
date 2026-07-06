@@ -34,13 +34,13 @@ Aqui estão algumas das tecnologias que estou aperfeiçoando no momento
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=KaikyAlexandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=wamberg236-cmd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"
     alt="Estatísticas do GitHub"
   />
   
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyAlexandre&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wamberg236-cmd&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"
     alt="Linguagens mais usadas"
   />
 </p>
